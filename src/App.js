@@ -1,6 +1,7 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import SweetsImg from "../assets/img/sweets.jpg";
 
 class App extends React.Component {
   render() {

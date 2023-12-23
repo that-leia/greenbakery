@@ -2,6 +2,8 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import SweetsImg from "../assets/img/sweets.jpg";
+import BreadImg from "../assets/img/bread1.jpg";
+import CookieImg from "../assets/img/cookies1.jpg";
 
 class App extends React.Component {
   render() {
@@ -103,7 +105,7 @@ class App extends React.Component {
                       <div className="carousel-item active">
                         <img
                           className="d-block w-100"
-                          src="img/sweets1.jpg"
+                          src={SweetsImg}
                           alt="Bakery Sweets"
                         />
                         <div className="carousel-caption">
@@ -114,7 +116,7 @@ class App extends React.Component {
                       <div className="carousel-item">
                         <img
                           className="d-block w-100"
-                          src="img/bread1.jpg"
+                          src={BreadImg}
                           alt="Stack of bread"
                         />
                         <div className="carousel-caption">

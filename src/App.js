@@ -1,9 +1,9 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import SweetsImg from "../assets/img/sweets.jpg";
-import BreadImg from "../assets/img/bread1.jpg";
-import CookieImg from "../assets/img/cookies1.jpg";
+import SweetsImg from "../img/sweets.jpg";
+import BreadImg from "../img/bread1.jpg";
+import CookieImg from "../img/cookies1.jpg";
 
 class App extends React.Component {
   render() {
@@ -126,7 +126,7 @@ class App extends React.Component {
                       <div className="carousel-item">
                         <img
                           className="d-block w-100"
-                          src="img/cookies1.jpg"
+                          src={CookieImg}
                           alt="Cookies"
                         />
                         <div className="carousel-caption">

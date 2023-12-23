@@ -1,16 +1,19 @@
 {
   "files": {
     "main.css": "/greenbakery/static/css/main.073c9b0a.css",
-    "main.js": "/greenbakery/static/js/main.08ee38e4.js",
+    "main.js": "/greenbakery/static/js/main.db31f7ca.js",
     "static/js/787.7c011463.chunk.js": "/greenbakery/static/js/787.7c011463.chunk.js",
+    "static/media/cookies1.jpg": "/greenbakery/static/media/cookies1.57b3af09a106331e4644.jpg",
+    "static/media/sweets1.jpg": "/greenbakery/static/media/sweets1.a932ce5f14ed7cf68a6e.jpg",
+    "static/media/bread1.jpg": "/greenbakery/static/media/bread1.2b2f15c5a7893e4bece7.jpg",
     "index.html": "/greenbakery/index.html",
     "static/media/logo.svg": "/greenbakery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "main.073c9b0a.css.map": "/greenbakery/static/css/main.073c9b0a.css.map",
-    "main.08ee38e4.js.map": "/greenbakery/static/js/main.08ee38e4.js.map",
+    "main.db31f7ca.js.map": "/greenbakery/static/js/main.db31f7ca.js.map",
     "787.7c011463.chunk.js.map": "/greenbakery/static/js/787.7c011463.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.08ee38e4.js"
+    "static/js/main.db31f7ca.js"
   ]
 }

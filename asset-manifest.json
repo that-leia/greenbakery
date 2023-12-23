@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greenbakery/static/css/main.073c9b0a.css",
+    "main.js": "/greenbakery/static/js/main.08ee38e4.js",
+    "static/js/787.7c011463.chunk.js": "/greenbakery/static/js/787.7c011463.chunk.js",
+    "index.html": "/greenbakery/index.html",
+    "static/media/logo.svg": "/greenbakery/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.073c9b0a.css.map": "/greenbakery/static/css/main.073c9b0a.css.map",
+    "main.08ee38e4.js.map": "/greenbakery/static/js/main.08ee38e4.js.map",
+    "787.7c011463.chunk.js.map": "/greenbakery/static/js/787.7c011463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.08ee38e4.js"
+  ]
+}
